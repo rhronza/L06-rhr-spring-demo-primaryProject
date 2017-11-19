@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cz.expertkom.ju.springdemo.SpringDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.086 sec - in cz.expertkom.ju.springdemo.SpringDemoApplicationTests
